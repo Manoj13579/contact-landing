@@ -1,7 +1,11 @@
 @import "tailwindcss";
 
-* {
+
+
+/* don't use below otherwise margin n padding will not work in tailwind css 4.0.  box-sizing: border-box is set by default globally in tailwind css. no need to set it here or in app*/
+
+/* * {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-}
+} */

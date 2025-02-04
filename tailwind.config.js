@@ -1,1 +1,0 @@
-/* just created this file for tailwind css intellisense to work. for new tailwind 4 version this file is not needed. fot typescript create tailwind.config.ts */
